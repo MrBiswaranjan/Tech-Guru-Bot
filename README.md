@@ -16,13 +16,12 @@ In today's fast-paced tech market, consumers often struggle to navigate through 
 - IBM Watson Assistant
 - IBM Cloud
 - Natural Language Processing (NLP)
-- AI-driven Demand Forecasting
-- Payment Integration
 
 
 ## Use this Bot
-
- Interact with TechGuide Bot through the provided user interface or integrate it into your platform. [Click here to try the chatbot](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-9f1a4b7f-8b87-4a34-a068-afeae2c36dad%3A%3Aee402861-7724-426b-9fa9-61a721544728&integrationID=dd382f76-96f4-4171-8a9c-2c03d2c2e518&region=au-syd&serviceInstanceID=9f1a4b7f-8b87-4a34-a068-afeae2c36dad).
+Steps:-
+1. Interact with TechGuide Bot through the provided user interface or integrate it into your platform. [Click here to try the chatbot](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-9f1a4b7f-8b87-4a34-a068-afeae2c36dad%3A%3Aee402861-7724-426b-9fa9-61a721544728&integrationID=dd382f76-96f4-4171-8a9c-2c03d2c2e518&region=au-syd&serviceInstanceID=9f1a4b7f-8b87-4a34-a068-afeae2c36dad).  
+2. then click on right botttom of the screen in a BOT icon. 
 
 ## Contributing
 
