@@ -1,4 +1,4 @@
-# Contributing to TechGuide Bot
+# Contributing to Tech Guru Bot
 
 First off, thank you for considering contributing to TechGuide Bot! It's people like you that make this project great.
 
@@ -74,4 +74,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 If you need help or have questions, feel free to open an issue in the repository, and we will do our best to assist you.
 
-Thank you for contributing to TechGuide Bot!
+Thank you for contributing to Tech Guru Bot!
